@@ -1,4 +1,5 @@
 # ✈️ Customer Experience & Flight Delay Prediction
+A data-driven project analyzing airline customer satisfaction and predicting flight delays using machine learning.
 
 ![image alt](https://github.com/parthgiht/British-Airways-Customer-Buying-Behavior-Prediction/blob/a6f9588ab2d310d6e45dc895e1073959a0191bc6/British%20Airways-1.jpg)
 
