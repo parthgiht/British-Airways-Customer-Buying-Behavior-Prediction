@@ -2,6 +2,9 @@
 
 ![image alt](https://github.com/parthgiht/British-Airways-Customer-Buying-Behavior-Prediction/blob/a6f9588ab2d310d6e45dc895e1073959a0191bc6/British%20Airways-1.jpg)
 
+## ❓ Problems:
+-  Modeling	lounge	eligibility	at	Heathrow	Terminal	3
+-  Predicting	customer	buying	behaviour
 
 ## 🎯 Overview 
 This project aims to predict customer behavior in flight bookings using machine learning techniques. By analyzing various features such as purchase lead time, flight hour, length of stay, and geographical factors, we build models to understand and forecast booking patterns. The project involves exploratory data analysis (EDA) and the application of RandomForest and XGBoost algorithms to predict a target variable, likely related to booking completion or flight delay likelihood.
