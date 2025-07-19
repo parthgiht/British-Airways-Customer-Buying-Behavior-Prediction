@@ -1,6 +1,6 @@
 # Flight Booking Prediction (✈️ British Airways)
 
-
+![image alt](https://github.com/parthgiht/British-Airways-Customer-Buying-Behavior-Prediction/blob/a6f9588ab2d310d6e45dc895e1073959a0191bc6/British%20Airways-1.jpg)
 
 
 ## 🎯 Overview 
